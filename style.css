@@ -8,3 +8,13 @@ body {
     height: 100px;
     background-color: blueviolet;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedor_color {
+    margin: 1rem;
+}
